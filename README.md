@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in build
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Advanced fraud detection systems and file-sharing applications
 - 🌱 **Always learning**: AI/ML algorithms, TypeScript, and best practices in software architecture
 - 💡 **Interested in**: Real-time analytics, intelligent systems, and full-stack development
 - 👯 **Open to**: Collaboration on innovative projects
