@@ -22,7 +22,7 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
 
 | Type | Details |
 |------|----------|
-| 📧 **Email** | [himaparvathia.23ec@saividya.ac.in](mailto:himaparvathia.23ec@saividya.ac.in) |
+| 📧 **Email** | [Hima Parvathi](mailto:himap2510@gmail.com) |
 | 🔗 **LinkedIn** | [Hima Parvathi A](https://www.linkedin.com/in/hima-parvathi-a-738245332) |
 | 💼 **GitHub** | [@himaparvathia23ec](https://github.com/himaparvathia23ec) |
 | 📍 **Location** | Bangalore, India |
