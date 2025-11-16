@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in build
 ### 🌟 University Education
 - **Institute**: Sai Vidya Institute of Technology (SVIT), Bangalore
 - **Program**: Bachelor of Engineering
-- **Branch**: Computer Science and Engineering (CSE)
+- **Branch**: CSE (AI & ML)
 - **Specialization**: AI/ML, Data Science
 - **Duration**: Currently Pursuing
 - **Focus Areas**: Advanced algorithms, Machine Learning, Full-stack development
