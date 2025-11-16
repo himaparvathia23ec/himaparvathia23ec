@@ -70,19 +70,24 @@ A comprehensive file-sharing platform combining web and backend technologies.
 
 ---
 
-## 📊 GitHub Statistics
+📊 **My Activities**
 
-![Profile Views](https://komarev.com/ghpvc/?username=himaparvathia23ec&color=blue)
+🎯 Balancing academics with real-world experimentation and project development
+⭐ Building and refining exciting AI/ML projects with fresh ideas
+📖 Focused on steady coding practice and continuous skill growth
+🚀 Exploring new tools, models, and tech to level up my AI journey
+
 
 ---
 
 ## 🎯 Goals & Aspirations
 
-- Develop production-ready applications that solve real-world problems
-- Deepen expertise in machine learning and AI implementation
-- Contribute to open-source projects
-- Build a community of developers interested in innovative technologies
-- Stay at the forefront of emerging technologies and best practices
+- Strengthen my foundation in Machine Learning, Deep Learning, and core AI concepts.
+- Master problem-solving through Data Structures, Algorithms, and real-world challenges.
+- Build impactful AI-based projects that solve meaningful problems.
+- Contribute to open-source AI/ML communities and collaborate with developers worldwide.
+- Secure an internship in a forward-thinking tech or AI-focused company.
+- Grow into a skilled AI/ML engineer and eventually mentor students entering the AI field.
 
 ---
 
