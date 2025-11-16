@@ -12,8 +12,31 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in build
 - 🌱 **Always learning**: AI/ML algorithms, TypeScript, and best practices in software architecture
 - 💡 **Interested in**: Real-time analytics, intelligent systems, and full-stack development
 - 👯 **Open to**: Collaboration on innovative projects
-- 📧 **Email**: himaparvathia.23ec@saividya.ac.in
-- 🔗 **LinkedIn**: [Hima Parvathi A](https://www.linkedin.com/in/hima-parvathi-a-738245332)
+- ## 🎓 Education
+
+### 🌟 University Education
+- **Institute**: Sai Vidya Institute of Technology (SVIT), Bangalore
+- **Program**: Bachelor of Engineering
+- **Branch**: Computer Science and Engineering (CSE)
+- **Specialization**: AI/ML, Data Science
+- **Duration**: Currently Pursuing
+- **Focus Areas**: Advanced algorithms, Machine Learning, Full-stack development
+
+### 🎪 School Education
+- **High School**: Completed with strong foundation in Mathematics and Science
+- **Focus**: Developed problem-solving skills and technical aptitude
+- **Achievements**: Active participation in academic and technical competitions
+
+---
+
+## 📄 Contact Information
+
+| Type | Details |
+|------|----------|
+| 📧 **Email** | [himaparvathia.23ec@saividya.ac.in](mailto:himaparvathia.23ec@saividya.ac.in) |
+| 🔗 **LinkedIn** | [Hima Parvathi A](https://www.linkedin.com/in/hima-parvathi-a-738245332) |
+| 💼 **GitHub** | [@himaparvathia23ec](https://github.com/himaparvathia23ec) |
+| 📍 **Location** | Bangalore, India |
 
 ---
 
