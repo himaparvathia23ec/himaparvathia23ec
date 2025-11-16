@@ -110,7 +110,7 @@ I'm always interested in:
 
 <div align="center">
 
-**Made with ❤️ by Hima Parvathi A**
+**Made with 🫶🏻 by Hima Parvathi A**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hima-parvathi-a-738245332)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:himaparvathia.23ec@saividya.ac.in)
