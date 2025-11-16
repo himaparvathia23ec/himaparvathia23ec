@@ -101,13 +101,3 @@ I'm always interested in:
 **Feel free to reach out if you want to collaborate or just chat about tech!**
 
 ---
-
-<div align="center">
-
-**Made with  by Hima Parvathi A**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hima-parvathi-a-738245332)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:himaparvathia.23ec@saividya.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/himaparvathia23ec)
-
-</div>
