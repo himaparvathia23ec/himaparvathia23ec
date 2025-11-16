@@ -1,30 +1,20 @@
 # Hi there! 👋 I'm Hima Parvathi A
 
-**Full Stack Developer | AI/ML Enthusiast | Tech Innovator**
+---
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in building scalable applications and exploring cutting-edge technologies in artificial intelligence and machine learning.
+🎓 3rd Year CSE (Artificial Inteligence & Machine Learning) Student
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 **Always learning**: AI/ML algorithms, TypeScript, and best practices in software architecture
+I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Sai Vidya Institute of Technology, driven by a curiosity for how machines learn and make decisions. I love creating AI-powered solutions that blend smart algorithms with clean software design. Whether it's experimenting with ML models or building efficient systems, I enjoy projects that push my problem-solving skills and deepen my understanding of intelligent computing.
+
+- 🔭 **Education**: 10th-12th: Kendriya Vidyalaya Malleswaram | UG: Sai Vidya Institute of Technology - B.E CSE (Artificial Intelligence & Machine Learning)
+- 🌱 **Always learning**: Data Structures algorithms, TypeScript, ADA(Analysis and Design of Algorithms), HTML, Java, C
 - 💡 **Interested in**: Real-time analytics, intelligent systems, and full-stack development
+- 💼 **Looking for**: Internship opportunities and collaborative projects
 - 👯 **Open to**: Collaboration on innovative projects
-- ## 🎓 Education
-
-### 🌟 University Education
-- **Institute**: Sai Vidya Institute of Technology (SVIT), Bangalore
-- **Program**: Bachelor of Engineering
-- **Branch**: CSE (AI & ML)
-- **Specialization**: AI/ML, Data Science
-- **Duration**: Currently Pursuing
-- **Focus Areas**: Advanced algorithms, Machine Learning, Full-stack development
-
-### 🎪 School Education
-- **High School**: Completed with strong foundation in Mathematics and Science
-- **Focus**: Developed problem-solving skills and technical aptitude
-- **Achievements**: Active participation in academic and technical competitions
 
 ---
 
