@@ -71,11 +71,10 @@ A comprehensive file-sharing platform combining web and backend technologies.
 ---
 
 📊 **My Activities**
-
-🎯 Balancing academics with real-world experimentation and project development
-⭐ Building and refining exciting AI/ML projects with fresh ideas
-📖 Focused on steady coding practice and continuous skill growth
-🚀 Exploring new tools, models, and tech to level up my AI journey
+- 🎯 Balancing academics with real-world experimentation and project development
+- ⭐ Building and refining exciting AI/ML projects with fresh ideas
+- 📖 Focused on steady coding practice and continuous skill growth
+- 🚀 Exploring new tools, models, and tech to level up my AI journey
 
 
 ---
