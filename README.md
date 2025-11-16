@@ -101,3 +101,5 @@ I'm always interested in:
 **Feel free to reach out if you want to collaborate or just chat about tech!**
 
 ---
+
+If this **README** stops here, don’t worry — the models are still learning.
