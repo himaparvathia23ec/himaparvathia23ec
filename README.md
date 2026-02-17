@@ -44,7 +44,6 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)]()
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)]()
 
 ### Specializations
