@@ -32,16 +32,20 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
 ## 💻 Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?logo=html5&logoColor=white&style=flat)
+[![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)]()
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+### Tools & Technologies
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)]()
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)]()
 
 ### Specializations
 - **AI/ML**: Machine Learning algorithms, data analysis, model optimization
