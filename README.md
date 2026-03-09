@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Sai Vidya Institute of Technology, driven by a curiosity for how machines learn and make decisions. I love creating AI-powered solutions that blend smart algorithms with clean software design. Whether it's experimenting with ML models or building efficient systems, I enjoy projects that push my problem-solving skills and deepen my understanding of intelligent computing.
+I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Sai Vidya Institute of Technology, with a strong interest in geospatial data and open mapping.  I love building AI-powered and full-stack solutions while contributing to open data ecosystems like OpenStreetMap to improve real-world map quality and accessibility. Whether it's experimenting with ML models or building efficient systems, I enjoy projects that push my problem-solving skills and deepen my understanding of intelligent computing.
 
 - 🔭 **Education**: 10th-12th: Kendriya Vidyalaya Malleswaram | UG: Sai Vidya Institute of Technology - B.E CSE (Artificial Intelligence & Machine Learning)
 - 🌱 **Always learning**: Data Structures algorithms, TypeScript, ADA(Analysis and Design of Algorithms), HTML, Java, C
-- 💡 **Interested in**: Real-time analytics, intelligent systems, and full-stack development
-- 💼 **Looking for**: Internship opportunities and collaborative projects
-- 👯 **Open to**: Collaboration on innovative projects
+- 💡 **Interested in**: Real-time analytics, intelligent systems, geospatial data analysis and full-stack development
+- 💼 **Looking for**: Internship opportunities and collaborative, impact-focused projects
+- 👯 **Open to**: Collaboration on AI/ML, web projects, and OSM-based mapping or data tooling 
 
 ---
 
@@ -27,6 +27,32 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
 | 💼 **GitHub** | [@himaparvathia23ec](https://github.com/himaparvathia23ec) |
 | 🗺️ **OpenStreetMap** | [Himaa2527](https://www.openstreetmap.org/user/Himaa2527) |
 | 📍 **Location** | Bangalore, India |
+
+---
+
+## 🗺️ **OpenStreetMap Contributions**
+
+I actively contribute to OpenStreetMap with a focus on structured, verifiable geospatial data.
+
+### Mapping Focus
+
+- Campus boundary structuring  
+- Road connectivity validation and refinement  
+- POI enrichment and tagging accuracy  
+- Infrastructure mapping (parking, entrances, internal roads)  
+- Data validation and cleanup  
+
+### Primary Mapping Region
+
+- Karnataka, India (with a focus on Bengaluru and Yelahanka surroundings)  
+
+### Mapping Principles
+
+- Map what exists in reality  
+- Verify using reliable and on-the-ground sources where possible  
+- Avoid duplication and conflicting data  
+- Maintain structured and consistent tagging  
+- Prioritize data integrity and completeness over raw edit count 
 
 ---
 
@@ -75,10 +101,10 @@ A comprehensive file-sharing platform combining web and backend technologies.
 ---
 
 📊 **My Activities**
-- 🎯 Balancing academics with real-world experimentation and project development
-- ⭐ Building and refining exciting AI/ML projects with fresh ideas
+- 🎯 Balancing academics with real-world experimentation, mapping, and project development  
+- ⭐ Building and refining AI/ML projects with practical, real-world use cases
 - 📖 Focused on steady coding practice and continuous skill growth
-- 🚀 Exploring new tools, models, and tech to level up my AI journey
+- 🚀 Exploring new tools, models, and geospatial APIs to level up my AI and mapping journey  
 
 
 ---
@@ -87,10 +113,10 @@ A comprehensive file-sharing platform combining web and backend technologies.
 
 - Strengthen my foundation in Machine Learning, Deep Learning, and core AI concepts.
 - Master problem-solving through Data Structures, Algorithms, and real-world challenges.
-- Build impactful AI-based projects that solve meaningful problems.
-- Contribute to open-source AI/ML communities and collaborate with developers worldwide.
+- Build impactful AI-based and geo-intelligent projects that solve meaningful problems.
+- Contribute more deeply to open-source communities, especially in AI/ML and OSM
 - Secure an internship in a forward-thinking tech or AI-focused company.
-- Grow into a skilled AI/ML engineer and eventually mentor students entering the AI field.
+- Grow into a skilled AI/ML engineer and eventually mentor students entering the AI and open mapping space
 
 ---
 
@@ -100,6 +126,7 @@ I'm always interested in:
 - Collaborative projects
 - Technical discussions and knowledge sharing
 - Mentoring and being mentored
+- Geospatial/open data initiatives and OSM-related tools 
 - Exploring new opportunities in tech
 
 **Feel free to reach out if you want to collaborate or just chat about tech!**
