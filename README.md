@@ -82,21 +82,29 @@ I actively contribute to OpenStreetMap with a focus on structured, verifiable ge
 
 ## 📂 Featured Projects
 
-### 🛡️ [Fraud-Sentinel-2.0](https://github.com/himaparvathia23ec/Fraud-Sentinel-2.0)
-An AI-powered, real-time fraud detection dashboard built with React and TypeScript.
-- **Features**: Rule-based risk detection, dynamic pattern recognition, PIN verification, live transaction history
-- **Tech Stack**: React, TypeScript, Tailwind CSS, Vite
-- **Status**: Deployed on Vercel
-- **Key Highlights**:
-  - Real-time transaction classification (Safe, Suspicious, Fraudulent)
-  - Intelligent UPI pattern recognition
-  - Secure PIN verification system
-  - Responsive dark-themed UI
+📂 Featured Projects
+--------------------
 
-### 📤 [AeroShare2.0](https://github.com/himaparvathia23ec/AeroShare2.0)
-A comprehensive file-sharing platform combining web and backend technologies.
-- **Tech Stack**: HTML5, Python, Flask/Django
-- **Features**: Secure file upload/download, user management, file organization
+### 🔐 [AgeisAI-2](https://github.com/himaparvathia23ec/AgeisAI-2)
+
+An intelligent email security system that uses AI to detect phishing attacks in real time and alert users before threats cause harm.  
+- **Focus**: Email phishing detection, real-time threat analysis, user safety  
+- **Tech Stack**: TypeScript, React (web dashboard), REST APIs  
+- **Highlights**: Live email risk scoring, alerting workflow, and explainable threat indicators  
+
+### 🧬 [Fraud-Sentinel-2.0](https://github.com/himaparvathia23ec/Fraud-Sentinel-2.0)
+
+A real-time fraud detection dashboard for transaction monitoring with an intuitive visual interface.  
+- **Focus**: Transaction risk classification (Safe, Suspicious, Fraudulent)  
+- **Tech Stack**: TypeScript, React, Tailwind CSS, Vite  
+- **Highlights**: Rule-based and pattern-aware checks, PIN verification, responsive UI, and clear analytics view  
+
+### 🕵️‍♀️ [AR_CrimeScene](https://github.com/himaparvathia23ec/AR_CrimeScene)
+
+An augmented reality–assisted crime scene visualization and evidence-mapping project.  
+- **Focus**: Visualizing crime scenes, mapping evidence points, and improving situational awareness  
+- **Tech Stack**: Python (core logic), AR/vision tooling (experimental)  
+- **Highlights**: Spatially organized scene representation, evidence tagging approach, and scope for integration with geospatial/OSM-style data models  
 
 ---
 
