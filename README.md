@@ -77,6 +77,7 @@ I actively contribute to OpenStreetMap with a focus on structured, verifiable ge
 - **AI/ML**: Machine Learning algorithms, data analysis, model optimization
 - **Full Stack Development**: Frontend, Backend, Database integration
 - **Command Line Tools**: Comfortable with CLI environments and scripting
+- **DevOps & CI/CD**: Automating builds, testing, deployment pipelines, and monitoring for reliable software delivery.
 
 ---
 
