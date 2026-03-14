@@ -82,8 +82,6 @@ I actively contribute to OpenStreetMap with a focus on structured, verifiable ge
 ---
 
 ## 📂 Featured Projects
-
-📂 Featured Projects
 --------------------
 
 ### 🔐 [AgeisAI-2](https://github.com/himaparvathia23ec/AgeisAI-2)
