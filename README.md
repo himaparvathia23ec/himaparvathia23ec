@@ -69,7 +69,6 @@ I actively contribute to OpenStreetMap with a focus on structured, verifiable ge
 ### Tools & Technologies
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]()
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)]()
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)]()
 
