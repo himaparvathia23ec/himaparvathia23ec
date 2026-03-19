@@ -63,6 +63,7 @@ I actively contribute to OpenStreetMap with a focus on structured, verifiable ge
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)]()
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)]()
 
@@ -71,6 +72,12 @@ I actively contribute to OpenStreetMap with a focus on structured, verifiable ge
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)]()
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)]()
+[![CI/CD Pipelines](https://img.shields.io/badge/-CI%2FCD%20Pipelines-0A0A0A?style=flat&logo=githubactions&logoColor=white)]()
+[![Unity (C#)](https://img.shields.io/badge/-Unity%20(C%23)-000000?style=flat&logo=unity&logoColor=white)]()
+[![WebXR](https://img.shields.io/badge/-WebXR-FF2D20?style=flat&logo=webxr&logoColor=white)]()
+
 
 ### Specializations
 - **AI/ML**: Machine Learning algorithms, data analysis, model optimization
