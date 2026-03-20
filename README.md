@@ -1,104 +1,146 @@
-# Hima Parvathi A
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hima%20Parvathi%20A&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20Geospatial&fontAlign=50&descAlign=50&color=gradient&fontColor=fff&animation=fadeIn&section=header&reversal=false" alt="header" />
 
-**AI/ML Engineer | Full Stack Developer | Geospatial Data Specialist**  
-Sai Vidya Institute of Technology, Bengaluru  
-[LinkedIn](https://linkedin.com/in/hima-parvathi-a-738245332) | [GitHub](https://github.com/himaparvathia23ec) | [Email](mailto:himap2510@gmail.com) | [OpenStreetMap](https://openstreetmap.org/user/Himaa2527)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI%2FML+Engineer+%7C+Production+Systems;Full+Stack+Developer+%7C+Real+World+Impact;Geospatial+Specialist+%7C+Open+Data+Advocate" alt="Typing animation" />
+</p>
 
----
+<hr>
 
-## About
+<div align="center">
+  <a href="https://linkedin.com/in/hima-parvathi-a-738245332"><img src="https://img.shields.io/badge/LinkedIn-Hima%20Parvathi%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/himaparvathia23ec"><img src="https://img.shields.io/badge/GitHub-himaparvathia23ec-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:himap2510@gmail.com"><img src="https://img.shields.io/badge/Email-himap2510%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://openstreetmap.org/user/Himaa2527"><img src="https://img.shields.io/badge/OpenStreetMap-Himaa2527-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OSM"/></a>
+</div>
 
-3rd year CS student specializing in AI/ML with hands-on experience building production-grade systems. I work at the intersection of machine learning, full-stack engineering, and geospatial data—turning complex problems into deployable solutions. Strong foundation in algorithms, systems design, and real-world data challenges.
+<hr>
 
-**Current Focus:** AI security systems, explainable machine learning, geospatial analytics, and scalable backend architecture.
+## 🥄 Who I Am
 
----
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=himaparvathia23ec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58A6FF&title_color=58A6FF&icon_color=58A6FF&rank_icon=percentile" alt="GitHub Stats" width="350" />
 
-## Tech Stack
+**3rd year CS student** at Sai Vidya Institute of Technology, Bengaluru, specializing in AI/ML with hands-on experience building **production-grade systems**.
 
-**Languages**  
-Python · TypeScript · JavaScript · C · Java · SQL
+I work at the intersection of:
+- **Machine Learning** — NLP, ensemble models, explainable AI (SHAP), production ML
+- **Full Stack Engineering** — TypeScript, React, Next.js, FastAPI, PostgreSQL
+- **Geospatial Systems** — OpenStreetMap, spatial analysis, QGIS, AR visualization
 
-**ML & Data**  
-TensorFlow · scikit-learn · XGBoost · Pandas · NumPy · SHAP · LangChain · OpenCV
+**Current Focus:** AI security systems, fraud detection with explainability, geospatial data quality, and scalable backend architecture.
 
-**Backend & Infrastructure**  
-Node.js · Flask · FastAPI · PostgreSQL · MongoDB · Docker
-
-**Frontend**  
-React · Next.js · Tailwind CSS
-
-**Geospatial & Tools**  
-OpenStreetMap · QGIS · Git · GitHub
-
----
-
-## Projects
-
-### AI Email Phishing Detection System
-**Problem:** Email phishing attacks cause 90% of breaches—manual detection doesn't scale.  
-**Approach:** Built end-to-end NLP + ML classification pipeline with real-time scoring and explainability layer.  
-**Impact:** Live risk assessment with interpretable threat indicators for user safety.  
-**Tech:** TypeScript · React · Python · scikit-learn · REST APIs  
-**Repo:** [AgeisAI-2](https://github.com/himaparvathia23ec/AgeisAI-2)
-
-### Real-Time Fraud Detection Dashboard
-**Problem:** Transaction fraud requires millisecond-level detection with business logic transparency.  
-**Approach:** Ensemble model architecture (XGBoost + pattern matching) with SHAP explainability; built responsive monitoring UI.  
-**Impact:** Risk classification (Safe/Suspicious/Fraudulent) with PIN verification and clear decision boundaries.  
-**Tech:** Python · FastAPI · React · Tailwind · XGBoost · SHAP  
-**Repo:** [Fraud-Sentinel-2.0](https://github.com/himaparvathia23ec/Fraud-Sentinel-2.0)
-
-### AR Crime Scene Visualization
-**Problem:** Crime scene evidence mapping is manual and error-prone; investigators need spatial clarity.  
-**Approach:** Developed AR-assisted spatial analysis tool for evidence tagging and scene reconstruction.  
-**Impact:** Proof-of-concept for evidence management in augmented reality space.  
-**Tech:** Python · OpenCV · Spatial analysis  
-**Repo:** [AR_CrimeScene](https://github.com/himaparvathia23ec/AR_CrimeScene)
+<br><br>
 
 ---
 
-## OpenStreetMap Contributions
+## 🥹 Tech Stack
 
-Active open data contributor focused on **Bengaluru and surrounding regions**.
+<div align="center">
 
-- **Campus Boundary Mapping:** Structured POI and infrastructure data for Sai Vidya Institute of Technology
-- **Road Connectivity:** Validation and refinement of internal and campus-adjacent road networks
-- **Infrastructure Tagging:** Parking, entrances, civic amenities, and connectivity layers
-- **Data Integrity:** Deduplication, conflict resolution, and tag standardization for downstream usability
+**Languages**
 
-**Username:** [Himaa2527](https://openstreetmap.org/user/Himaa2527)  
-**Focus Regions:** Karnataka (Bengaluru, Yelahanka, surrounding tech parks)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI/ML & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-009639?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Full Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Geospatial**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OSM-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+
+</div>
 
 ---
 
-## Currently Working On
+## 📚 Featured Projects
 
-- **DSA Mastery:** Data structures and algorithms in Python and C—building problem-solving rigor
-- **TypeScript Deepdive:** Advanced patterns, generics, and type system fundamentals
-- **OSM Coverage:** Expanding Karnataka infrastructure mapping; focusing on civic data quality
-- **Production ML:** Hardening AI security tool for deployment—performance, latency, and monitoring
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaparvathia23ec&show_icons=true&theme=dark&hide_border=true&rank_icon=percentile)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himaparvathia23ec&layout=compact&theme=dark&hide_border=true)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AI Phishing Detection** | Real-time email security system with NLP + ensemble classifiers and live analyst dashboard | `TypeScript` `React` `FastAPI` `NLP` `Random Forest` `REST API` |
+| **Fraud Detection Dashboard** | XGBoost + SHAP explainability for transaction risk classification with responsive UI | `Python` `XGBoost` `SHAP` `FastAPI` `Plotly` `React` |
+| **AR Crime Scene Mapper** | Spatial AR annotations for forensic evidence documentation and scene reconstruction | `Python` `OpenCV` `GeoJSON` `AR` `Spatial Analysis` |
+| **Karnataka OSM Mapping** | Active contributor mapping Bengaluru & Yelahanka infrastructure, roads, POIs, boundaries | `OpenStreetMap` `JOSM` `QGIS` `Python` `Data Validation` |
 
 ---
 
-## Goals
+## 🗺️ OpenStreetMap Contributions
 
-- Build production AI/ML systems that solve real-world security and data problems
-- Develop deep expertise in ML deployment, monitoring, and explainability
-- Contribute meaningfully to open-source and open data ecosystems
-- Secure a strong internship role in AI/ML or full-stack engineering where I can own features end-to-end
+| Category | Contributions |
+|----------|---------------|
+| **Institutions** | Campus boundaries, building outlines, internal roads, parking areas |
+| **Transport** | Road networks, connectivity validation, intersection refinement, street tagging |
+| **Infrastructure** | Civic amenities, entrances, pathways, utilities, data cleanup |
+| **POIs** | Educational facilities, retail, services, healthcare, geospatial enrichment |
+
+**Focus Regions:** Karnataka (Bengaluru, Yelahanka, surrounding tech parks)  
+**Username:** [Himaa2527](https://openstreetmap.org/user/Himaa2527)
 
 ---
 
-## Let's Talk
+## 📊 GitHub Activity
 
-If you're looking for an engineer who writes clean code, thinks in systems, and ships working solutions—reach out. I'm actively seeking internship and open-source collaboration opportunities.
+<div align="center">
 
-**Contact:** [himap2510@gmail.com](mailto:himap2510@gmail.com) | [LinkedIn](https://linkedin.com/in/hima-parvathi-a-738245332)
+![Hima's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himaparvathia23ec&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&dates=58A6FF)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himaparvathia23ec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58A6FF&title_color=58A6FF)
+
+</div>
+
+---
+
+## 🚀 What I'm Building Toward
+
+```
+┌────────────────────────────────────────┐
+│ 🌟 Production ML systems solving real-world problems      │
+│ 🙋 Deep expertise in model deployment & explainability      │
+│ 🌐 Open-source & open-data ecosystem contributions        │
+│ 🚀 Full ownership of features end-to-end in AI/ML roles    │
+└────────────────────────────────────────┘
+```
+
+---
+
+## 🤛 Let's Connect
+
+<div align="center">
+
+I'm actively seeking **internship opportunities** in:
+- AI/ML Engineering — Model development, deployment, production systems
+- Full Stack Development — Building end-to-end features and scalable backends  
+- Geospatial Systems — Spatial analysis, mapping platforms, location intelligence
+
+**Interested in collaborating?** Reach out via [email](mailto:himap2510@gmail.com) or [LinkedIn](https://linkedin.com/in/hima-parvathi-a-738245332)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&fontColor=fff" alt="footer" />
