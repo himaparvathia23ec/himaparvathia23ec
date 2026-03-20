@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 Hima Parvathi A
+# Hima Parvathi A
 
 </div>
 
