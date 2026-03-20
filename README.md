@@ -4,15 +4,9 @@
 
 </div>
 
-<div align="left">
-
-## Hi, I'm Hima Parvathi A! 👋
-
-**CSE (AI & ML) Student | SVIT Bengaluru**
-
-### Build. Ship. Reason. Repeat.
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&color=00BFFF&center=false&vCenter=true&width=700&lines=Hi,+I'm+Hima+Parvathi+A!+%F0%9F%91%8B)
+![Tagline SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&color=58A6FF&center=false&vCenter=true&width=700&delay=800&lines=CSE+(AI+%26+ML)+Student+%7C+SVIT+Bengaluru)
+![Motto SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&color=58A6FF&center=false&vCenter=true&width=700&lines=Build.+Ship.+Reason.+Repeat.)
 
 <div align="center">
 
@@ -57,97 +51,67 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-009639?style=flat-square&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Full Stack**
+**Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**DevOps & Geospatial**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OSM-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
 </div>
 
 ---
 
-## 📚 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **AI Phishing Detection** | Real-time email security system with NLP + ensemble classifiers and live analyst dashboard | `TypeScript` `React` `FastAPI` `NLP` `Random Forest` `REST API` |
-| **Fraud Detection Dashboard** | XGBoost + SHAP explainability for transaction risk classification with responsive UI | `Python` `XGBoost` `SHAP` `FastAPI` `Plotly` `React` |
-| **AR Crime Scene Mapper** | Spatial AR annotations for forensic evidence documentation and scene reconstruction | `Python` `OpenCV` `GeoJSON` `AR` `Spatial Analysis` |
-| **Karnataka OSM Mapping** | Active contributor mapping Bengaluru & Yelahanka infrastructure, roads, POIs, boundaries | `OpenStreetMap` `JOSM` `QGIS` `Python` `Data Validation` |
-
----
-
-## 🗺️ OpenStreetMap Contributions
-
-| Category | Contributions |
-|----------|---------------|
-| **Institutions** | Campus boundaries, building outlines, internal roads, parking areas |
-| **Transport** | Road networks, connectivity validation, intersection refinement, street tagging |
-| **Infrastructure** | Civic amenities, entrances, pathways, utilities, data cleanup |
-| **POIs** | Educational facilities, retail, services, healthcare, geospatial enrichment |
-
-**Focus Regions:** Karnataka (Bengaluru, Yelahanka, surrounding tech parks)  
-**Username:** [Himaa2527](https://www.openstreetmap.org/user/himaa2527)
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Hima's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himaparvathia23ec&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&dates=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaparvathia23ec&show_icons=true&theme=tokyonight&count_private=true)
 
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himaparvathia23ec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58A6FF&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himaparvathia23ec&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🚀 What I'm Building Toward
+## 🎯 About Me
 
-```
-┌────────────────────────────────────────┐
-│ 🌟 Production ML systems solving        │
-│    real-world security & data problems  │
-│ 🎯 Deep expertise in ML deployment &   │
-│    explainability (SHAP, monitoring)   │
-│ 🌐 Open-source & open-data ecosystem   │
-│    contributions                        │
-│ ⚡ Full ownership of features           │
-│    end-to-end in AI/ML roles            │
-└────────────────────────────────────────┘
-```
+- 💻 **Computer Science & Data Science** student at SVIT, Bengaluru
+- 🤖 Passionate about **AI/ML, Data Science, and Full-Stack Development**
+- 🏆 Participant in hackathons (Mumbai Hacks 2024, 2025)
+- 🔧 Building projects with clean code and innovative solutions
+- 📚 Continuously learning and improving technical skills
+- 🌐 Active contributor to open-source projects
+
+---
+
+## 🚀 Key Projects & Experiences
+
+- **AI & Machine Learning**: Data analysis, predictive modeling, NLP projects
+- **Web Development**: Full-stack applications with React, Node.js, Django
+- **Internship Experience**: Nextcloud Talk widget development
+- **Hackathon Projects**: Fintech solutions, automation tools
+- **Technical Writing**: Professional README documentation, technical blogs
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+I'm always open to discussions, collaborations, and new opportunities!
+
+📧 Email: [himap2510@gmail.com](mailto:himap2510@gmail.com)  
+🔗 LinkedIn: [Hima Parvathi A](https://www.linkedin.com/in/hima-parvathi-a-2527b0292)  
+💼 GitHub: [@himaparvathia23ec](https://github.com/himaparvathia23ec)
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
-
-I'm actively seeking **internship opportunities** in:
-- **AI/ML Engineering** — Model development, deployment, production systems
-- **Full Stack Development** — Building end-to-end features and scalable backends  
-- **Geospatial Systems** — Spatial analysis, mapping platforms, location intelligence
-
-**Interested in collaborating?** Reach out via [email](mailto:himap2510@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hima-parvathi-a-2527b0292)
+✨ *Building the future, one line of code at a time* ✨
 
 </div>
