@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🏆 Hima Parvathi A
+# Hi, I'm Hima Parvathi A! 👋
 
-## Hi, I'm Hima Parvathi A! 👋
-
-**CSE (AI & ML) Student | SVIT Bengaluru**
+**CSE (AI & ML) | SVIT Bengaluru**
 
 ### Build. Ship. Reason. Repeat.
 
