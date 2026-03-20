@@ -1,38 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hima%20Parvathi%20A&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20Geospatial&fontAlign=50&descAlign=50&color=gradient&fontColor=fff&animation=fadeIn&section=header&reversal=false" alt="header" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI%2FML+Engineer+%7C+Production+Systems;Full+Stack+Developer+%7C+Real+World+Impact;Geospatial+Specialist+%7C+Open+Data+Advocate" alt="Typing animation" />
-</p>
-
-<hr>
-
 <div align="center">
-  <a href="https://linkedin.com/in/hima-parvathi-a-738245332"><img src="https://img.shields.io/badge/LinkedIn-Hima%20Parvathi%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/himaparvathia23ec"><img src="https://img.shields.io/badge/GitHub-himaparvathia23ec-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:himap2510@gmail.com"><img src="https://img.shields.io/badge/Email-himap2510%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://openstreetmap.org/user/Himaa2527"><img src="https://img.shields.io/badge/OpenStreetMap-Himaa2527-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OSM"/></a>
+
+# 🏆 Hima Parvathi A
+
+## Hi, I'm Hima Parvathi A! 👋
+
+**CSE (AI & ML) Student | SVIT Bengaluru**
+
+### Build. Ship. Reason. Repeat.
+
 </div>
 
-<hr>
+<div align="center">
 
-## 🥄 Who I Am
+<a href="https://www.linkedin.com/in/hima-parvathi-a-2527b0292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/himaparvathia23ec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:himap2510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.openstreetmap.org/user/himaa2527"><img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OSM"/></a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=himaparvathia23ec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58A6FF&title_color=58A6FF&icon_color=58A6FF&rank_icon=percentile" alt="GitHub Stats" width="350" />
+</div>
 
-**3rd year CS student** at Sai Vidya Institute of Technology, Bengaluru, specializing in AI/ML with hands-on experience building **production-grade systems**.
+<div align="center">
 
-I work at the intersection of:
-- **Machine Learning** — NLP, ensemble models, explainable AI (SHAP), production ML
-- **Full Stack Engineering** — TypeScript, React, Next.js, FastAPI, PostgreSQL
-- **Geospatial Systems** — OpenStreetMap, spatial analysis, QGIS, AR visualization
+[![trophy](https://github-profile-trophy.vercel.app/?username=himaparvathia23ec&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Current Focus:** AI security systems, fraud detection with explainability, geospatial data quality, and scalable backend architecture.
+</div>
 
-<br><br>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=himaparvathia23ec&style=flat-square&color=58a6ff)
+
+</div>
 
 ---
 
-## 🥹 Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -97,7 +98,7 @@ I work at the intersection of:
 | **POIs** | Educational facilities, retail, services, healthcare, geospatial enrichment |
 
 **Focus Regions:** Karnataka (Bengaluru, Yelahanka, surrounding tech parks)  
-**Username:** [Himaa2527](https://openstreetmap.org/user/Himaa2527)
+**Username:** [Himaa2527](https://www.openstreetmap.org/user/himaa2527)
 
 ---
 
@@ -121,26 +122,28 @@ I work at the intersection of:
 
 ```
 ┌────────────────────────────────────────┐
-│ 🌟 Production ML systems solving real-world problems      │
-│ 🙋 Deep expertise in model deployment & explainability      │
-│ 🌐 Open-source & open-data ecosystem contributions        │
-│ 🚀 Full ownership of features end-to-end in AI/ML roles    │
+│ 🌟 Production ML systems solving        │
+│    real-world security & data problems  │
+│ 🎯 Deep expertise in ML deployment &   │
+│    explainability (SHAP, monitoring)   │
+│ 🌐 Open-source & open-data ecosystem   │
+│    contributions                        │
+│ ⚡ Full ownership of features           │
+│    end-to-end in AI/ML roles            │
 └────────────────────────────────────────┘
 ```
 
 ---
 
-## 🤛 Let's Connect
-
 <div align="center">
 
-I'm actively seeking **internship opportunities** in:
-- AI/ML Engineering — Model development, deployment, production systems
-- Full Stack Development — Building end-to-end features and scalable backends  
-- Geospatial Systems — Spatial analysis, mapping platforms, location intelligence
+## 🤝 Let's Connect
 
-**Interested in collaborating?** Reach out via [email](mailto:himap2510@gmail.com) or [LinkedIn](https://linkedin.com/in/hima-parvathi-a-738245332)
+I'm actively seeking **internship opportunities** in:
+- **AI/ML Engineering** — Model development, deployment, production systems
+- **Full Stack Development** — Building end-to-end features and scalable backends  
+- **Geospatial Systems** — Spatial analysis, mapping platforms, location intelligence
+
+**Interested in collaborating?** Reach out via [email](mailto:himap2510@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hima-parvathi-a-2527b0292)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&fontColor=fff" alt="footer" />
