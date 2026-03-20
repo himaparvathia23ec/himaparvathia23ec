@@ -4,9 +4,15 @@
 
 </div>
 
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&color=00BFFF&center=false&vCenter=true&width=700&lines=Hi,+I'm+Hima+Parvathi+A!+%F0%9F%91%8B)
+
 ![Tagline SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&color=58A6FF&center=false&vCenter=true&width=700&delay=800&lines=CSE+(AI+%26+ML)+Student+%7C+SVIT+Bengaluru)
+
 ![Motto SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&color=58A6FF&center=false&vCenter=true&width=700&lines=Build.+Ship.+Reason.+Repeat.)
+
+</div>
 
 <div align="center">
 
@@ -31,9 +37,9 @@
 
 ---
 
-## 🧠 Tech Stack
-
 <div align="center">
+
+## 🧠 Tech Stack
 
 **Languages**
 
@@ -63,9 +69,9 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
+
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaparvathia23ec&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -75,35 +81,54 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me
 
-- 💻 **Computer Science & Data Science** student at SVIT, Bengaluru
-- 🤖 Passionate about **AI/ML, Data Science, and Full-Stack Development**
-- 🏆 Participant in hackathons (Mumbai Hacks 2024, 2025)
-- 🔧 Building projects with clean code and innovative solutions
-- 📚 Continuously learning and improving technical skills
-- 🌐 Active contributor to open-source projects
+💻 **Computer Science & Data Science** student at SVIT, Bengaluru
+
+🤖 Passionate about **AI/ML, Data Science, and Full-Stack Development**
+
+🏆 Participant in hackathons (Mumbai Hacks 2024, 2025)
+
+🔧 Building projects with clean code and innovative solutions
+
+📚 Continuously learning and improving technical skills
+
+🌐 Active contributor to open-source projects
+
+</div>
 
 ---
-
-## 🚀 Key Projects & Experiences
-
-- **AI & Machine Learning**: Data analysis, predictive modeling, NLP projects
-- **Web Development**: Full-stack applications with React, Node.js, Django
-- **Internship Experience**: Nextcloud Talk widget development
-- **Hackathon Projects**: Fintech solutions, automation tools
-- **Technical Writing**: Professional README documentation, technical blogs
-
----
-
-## 🔗 Let's Connect
 
 <div align="center">
 
+## 🚀 Key Projects & Experiences
+
+**AI & Machine Learning**: Data analysis, predictive modeling, NLP projects
+
+**Web Development**: Full-stack applications with React, Node.js, Django
+
+**Internship Experience**: Nextcloud Talk widget development
+
+**Hackathon Projects**: Fintech solutions, automation tools
+
+**Technical Writing**: Professional README documentation, technical blogs
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 Let's Connect
+
 I'm always open to discussions, collaborations, and new opportunities!
 
-📧 Email: [himap2510@gmail.com](mailto:himap2510@gmail.com)  
-🔗 LinkedIn: [Hima Parvathi A](https://www.linkedin.com/in/hima-parvathi-a-2527b0292)  
+📧 Email: [himap2510@gmail.com](mailto:himap2510@gmail.com)
+
+🔗 LinkedIn: [Hima Parvathi A](https://www.linkedin.com/in/hima-parvathi-a-2527b0292)
+
 💼 GitHub: [@himaparvathia23ec](https://github.com/himaparvathia23ec)
 
 </div>
