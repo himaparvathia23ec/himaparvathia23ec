@@ -40,6 +40,9 @@ Full stack, from model to interface.
 <a href="mailto:himap2510@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+  <a href="https://www.openstreetmap.org/user/Himaa2527">
+    <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+  </a>
 
 </div>
 
@@ -123,25 +126,25 @@ Full stack, from model to interface.
 
 <br/>
 
-**🔐 Fraud Sentinel 2.0 — Intelligent Real-Time Fraud Detection**
+### [🔐 Fraud Sentinel 2.0 — Intelligent Real-Time Fraud Detection](https://github.com/himaparvathia23ec/Fraud-Sentinel-2.0)
 
 A production-grade fraud detection system built on an ensemble of XGBoost, Random Forest, and neural networks, purpose-built for financial transaction environments. The system combines streaming transaction analysis with behavioral pattern recognition to flag anomalies before they compound. A core focus was minimizing false positives — because in fintech, false alarms carry real cost. Built with a FastAPI backend and a React-based monitoring dashboard, Fraud Sentinel 2.0 operates on live data pipelines and is deployable at scale.
 
 <br/>
 
-**📂 AeroShare 2.0 — Zero-Friction File Sharing Infrastructure**
+### [📂 AeroShare 2.0 — Zero-Friction File Sharing Infrastructure](https://github.com/himaparvathia23ec/AeroShare2.0)
 
 A lightweight yet robust file-sharing platform engineered for speed and simplicity. AeroShare 2.0 strips away the unnecessary — no accounts, no bloat — while delivering encrypted transfer, expiring links, and a clean drag-and-drop interface. Built on Flask and MongoDB with a Tailwind-styled frontend, it prioritizes the experience of both sender and receiver. The focus was on infrastructure reliability and user trust: your files arrive intact, and they don't linger longer than they should.
 
 <br/>
 
-**🛡️ AegisAI — Full-Stack AI Phishing Detection Platform**
+### [🛡️ AegisAI — Full-Stack AI Phishing Detection Platform](https://github.com/himaparvathia23ec/AgeisAI-2)
 
 AegisAI is an end-to-end phishing detection platform that processes URLs, email content, and web metadata through a multi-model ML pipeline. What sets it apart is the explainability layer — users don't just get a verdict, they get a breakdown of why something was flagged, building informed awareness rather than blind trust. Deployed as a browser-accessible tool with a React frontend and a FastAPI inference backend, AegisAI bridges the gap between cybersecurity tooling and everyday usability.
 
 <br/>
 
-**🥽 AR/VR Crime Scene Memory Distortion Simulator**
+### [🥽 AR/VR Crime Scene Memory Distortion Simulator](https://github.com/himaparvathia23ec/AR_CrimeScene)
 
 A research-oriented simulation tool exploring how immersive environments can distort eyewitness memory — a problem with deep implications for forensic science and criminal justice. Using AR/VR environments, the simulator introduces controlled perceptual stimuli and measures recall accuracy across test subjects, generating structured data for cognitive research. The project sits at an unusual intersection of XR development, psychology, and data analysis — and that's exactly what makes it worth building.
 
