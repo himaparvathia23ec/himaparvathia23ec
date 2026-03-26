@@ -8,21 +8,18 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=himaparvathia23ec&style=flat-square&color=58a6ff&label=profile+views)
-
-</div>
-
-<br/>
-
 ---
 
 ## 🧩 About Me
 
-I'm an AI & ML engineering student at SVIT, Bengaluru, driven by one thing: building systems that actually work in the real world. My focus sits at the intersection of **intelligent systems** and **cybersecurity** — where machine learning meets the messy, unpredictable nature of real threats and real users.
+AI & ML student at SVIT, Bengaluru.
+I build systems that work — not just in theory, but in the wild.
 
-I don't just consume theory. I prototype, break things, rebuild them, and ship. Whether it's a fraud detection engine, a phishing classifier, or a file-sharing tool — I care about the full stack, from model to interface.
+Fraud detection. Phishing classifiers. Real-time dashboards.
+Full stack, from model to interface.
 
-Currently deepening my foundations in **adversarial ML**, **full-stack development**, and **applied AI** — with an eye on building things that outlast a hackathon weekend.
+> Currently going deep on adversarial ML, cybersecurity, and applied AI.
+> Building things that outlast a hackathon weekend.
 
 <br/>
 
