@@ -156,11 +156,10 @@ A research-oriented simulation tool exploring how immersive environments can dis
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaparvathia23ec&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himaparvathia23ec&layout=compact&theme=tokyonight&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=himaparvathia23ec&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
