@@ -57,7 +57,7 @@ Full stack, from model to interface.
 
 <div align="left">
 
-![Skills](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,vite,cs,fastapi,flask,tailwind&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,js,ts,html,vite,cs,fastapi,flask,tailwind&theme=dark)
 
 </div>
 
@@ -67,12 +67,11 @@ Full stack, from model to interface.
 
 <div align="left">
 
-![Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,linux,vercel,netlify&theme=dark)
+![Skills](https://skillicons.dev/icons?i=mongodb,mysql,git,github,vercel,netlify&theme=dark)
 
 </div>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/OAuth_2.0-3C5A99?style=for-the-badge&logo=auth0&logoColor=white" />
@@ -90,7 +89,6 @@ Full stack, from model to interface.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Logistic_Regression-6E40C9?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Fuzzy_Matching-30363D?style=for-the-badge&logo=python&logoColor=white" />
 </p>
