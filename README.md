@@ -92,6 +92,7 @@ Full stack, from model to interface.
   <img src="https://img.shields.io/badge/Logistic_Regression-6E40C9?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Fuzzy_Matching-30363D?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
